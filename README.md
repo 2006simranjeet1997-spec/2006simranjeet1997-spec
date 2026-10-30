@@ -70,6 +70,19 @@ A JavaScript-based personal expense tracker to manage income and expenses.
 
 ---
 
+
+
+## 📊 GitHub Statistics
+
+- Explore my [repositories](https://github.com/2006simranjeet1997-spec?tab=repositories).
+- Check out my [contribution activity](https://github.com/2006simranjeet1997-spec).
+
+
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating, and building something meaningful!
+
+- GitHub: [@2006simranjeet1997-spec](https://github.com/2006simranjeet1997-spec)
