@@ -1,16 +1,59 @@
-## Hi there 👋
 
-<!--
-**2006simranjeet1997-spec/2006simranjeet1997-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Simran 👋
 
-Here are some ideas to get you started:
+### Computer Science Engineering Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science Engineering student passionate about building applications, solving problems, and exploring new technologies.
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Learning Full Stack Web Development
+- 🌱 Practicing Java and Data Structures & Algorithms
+- 🚀 Building projects that solve real-world problems
+- 🎯 Focused on improving my development and problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- JavaScript
+- HTML
+- CSS
+
+**Frontend**
+- React.js
+
+**Backend & Database**
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+- **CampusLoop** – A student marketplace for buying, selling, renting and swapping items.
+- **ConnecSphere** – A video conferencing application.
+- **BudgetMaster** – A personal expense tracking application.
+
+---
+
+## 📚 Currently Learning
+
+- Full Stack Development (MERN)
+- Data Structures & Algorithms
+- Backend Development
+- Problem Solving with Java
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and building something meaningful!
