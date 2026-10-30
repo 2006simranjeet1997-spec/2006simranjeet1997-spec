@@ -39,11 +39,25 @@ I'm a Computer Science Engineering student passionate about building application
 
 ---
 
+
 ## 🚀 Featured Projects
 
-- **CampusLoop** – A student marketplace for buying, selling, renting and swapping items.
-- **ConnecSphere** – A video conferencing application.
-- **BudgetMaster** – A personal expense tracking application.
+### 1. CampusLoop
+A campus-based marketplace where students can buy, sell, rent, borrow, and swap items.
+
+**Tech:** React.js | Node.js | Express.js | MongoDB
+
+### 2. ConnecSphere
+A real-time video conferencing application with video communication features.
+
+**Tech:** React.js | Node.js | TypeScript | Socket.io | WebRTC
+
+### 3. BudgetMaster
+A JavaScript-based personal expense tracker to manage income and expenses.
+
+**Tech:** HTML | CSS | JavaScript | LocalStorage
+
+
 
 ---
 
